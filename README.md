@@ -4,9 +4,9 @@ Tournée national de l'accroissement de l'effectif.
 
 ## Qui sommes nous?
 
-![Image 1](FLYERS_1.png)
-![Image 2](FLYERS_2.png)
-![Image 3](FLYERS_3.png)
+![FLYERS 3](https://github.com/DistrictLEO403A4/DistrictLEO403A4/assets/149120853/3a4e6812-56f1-49e3-9885-fca9ce6707c6)
+![FLYERS 2](https://github.com/DistrictLEO403A4/DistrictLEO403A4/assets/149120853/ff8d7f65-9ee6-47ec-9b55-3f86508d43cf)
+![FLYERS 1](https://github.com/DistrictLEO403A4/DistrictLEO403A4/assets/149120853/c0ff32ad-f0d3-41c2-859e-9e9ce30c2edd)
 
 ## Inscription
 
